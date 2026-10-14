@@ -1,0 +1,4 @@
+[submodule "syncoria/odoosync"]
+	path = syncoria/odoosync
+	url = git@github.com:syncoria/odoosync.git
+	branch = 20.0
